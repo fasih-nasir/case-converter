@@ -20,6 +20,16 @@ The home page showcases the case converter tool. Users can convert text to diffe
 2. **Select Conversion:** Click the button for the desired case conversion (uppercase, lowercase, title case, or sentence case).
 3. **View Result:** The converted text will be displayed in the preview area below the buttons.
 4. **Copy Text:** Use the copy button to copy the converted text to your clipboard.
+
+# Fasih-Nasir's Project Showcase 🎇📌
+
+
+
+### Home Page
+
+The home page showcases my top-rated projects. Users can navigate through different categories of projects using a dropdown menu and search bar. Each project is displayed with an image, title, and a link to view the live demo.
+
+![image](https://github.com/user-attachments/assets/59ff1785-18a4-4f93-b23a-f111a944f97a) 
 - 👨‍💻 All of my projects are available at [https://fasih-nasirall.netlify.app/]
 
 - 📝 I regularly write articles on [https://fasihnasirportfolio.netlify.app/](https://fasihnasirportfolio.netlify.app/)
